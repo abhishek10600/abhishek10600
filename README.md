@@ -4,15 +4,14 @@ I am Abhishek Sharma. I am a fullstack developer. I have a degree in Engineering
 
 ## My Skills:
 
-1) NextJS
-2) ReactJS
-3) ExpressJS
-4) NodeJS
-5) MongoDB
-6) Prisma
-7) Typescript
-8) Javascript
-9) Linux
-10) Java
-11) TalwindCSS
-12) Git
+1) ReactJS
+2) ExpressJS
+3) NodeJS
+4) MongoDB
+5) Javascript
+6) Linux
+7) Java
+8) TalwindCSS
+9) Git
+10) HTML
+11) CSS

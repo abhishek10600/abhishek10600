@@ -10,8 +10,5 @@ I am Abhishek Sharma. I am a fullstack developer. I have a degree in Engineering
 4) MongoDB
 5) Javascript
 6) Linux
-7) Java
-8) TalwindCSS
-9) Git
-10) HTML
-11) CSS
+7) TalwindCSS
+8) Git

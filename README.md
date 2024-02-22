@@ -5,7 +5,6 @@ I am Abhishek Sharma. I am a fullstack developer. I have a degree in Engineering
 ## My Skills:
 
 ### Backend Skills:
-1) Django
 2) Expressjs
 3) Nodejs
 4) REST Api

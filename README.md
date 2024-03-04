@@ -8,6 +8,7 @@ I am Abhishek Sharma. I am a fullstack developer and a software engineer. I have
 2) Expressjs
 3) Nodejs
 4) REST Api
+5) FastAPI
 
 ### Databases:
 1) MySQL

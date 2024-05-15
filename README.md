@@ -5,9 +5,10 @@ I am Abhishek Sharma. I am a fullstack developer and a software engineer. I have
 ## My Skills:
 
 ### Backend Skills:
+1) Django
 2) Expressjs
 3) Nodejs
-4) REST Api
+4) RESTFUL APIs
 5) FastAPI
 
 ### Databases:

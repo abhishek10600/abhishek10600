@@ -12,8 +12,9 @@ I am Abhishek Sharma. I am a fullstack developer and a software engineer. I have
 5) FastAPI
 
 ### Databases:
-1) MySQL
-2) MongoDB
+1) Postgresql
+2) MySQL
+3) MongoDB
 
 ### Frontend Skills:
 1) ReactJs

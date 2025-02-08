@@ -19,6 +19,10 @@ I am Abhishek Sharma. I am a fullstack developer and a software engineer. I have
 1) ReactJs
 2) React Native
 
+### Server Skills:
+1) Docker
+2) Nginx
+
 ### Prgramming Languages:
 1) Python
 2) Javascript/Typescript

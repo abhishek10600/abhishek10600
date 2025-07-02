@@ -1,29 +1,39 @@
-## Greetings!
+# 👋 Hi there, I’m Abhishek Sharma
 
-I am Abhishek Sharma. I am a fullstack developer and a software engineer. I have a degree in Engineering in the field of Information Technology. I have years of experience in development and I have built many real world applications. I decided to become a full stack developer because I always like building things that have a value and can be used by people and my passion for development paved my way in becoming a fullstack developer.
+I'm a passionate **Software Engineer** who loves building impactful solutions and continuously improving. I enjoy solving complex problems, writing clean code, and learning new technologies to stay ahead in this ever-evolving industry.
 
-## My Skills:
+---
 
-### Backend Skills:
-1) Django
-2) Expressjs
-3) Nodejs
-4) RESTFUL APIs
+## 🚀 About Me
+- 🎯 I focus on building scalable, user-centric applications.
+- 💡 I believe in continuous growth through consistency, curiosity, and real-world problem-solving.
+- 🛠️ I’m actively working on improving my skills and contributing to meaningful projects.
+- 🤝 I love collaborating and learning from fellow developers.
 
-### Databases:
-1) Postgresql
-2) MySQL
-3) MongoDB
+---
 
-### Frontend Skills:
-1) ReactJs
-2) React Native
+## 📚 Currently Working On
+- Building exciting projects that solve real-world problems.
+- Sharpening my backend and system design skills.
+- Writing content related to software engineering and self-improvement.
 
-### Server Skills:
-1) Docker
-2) Nginx
+---
 
-### Prgramming Languages:
-1) Python
-2) Javascript/Typescript
-3) C++
+## 🌱 Always Learning
+- Clean architecture & design patterns
+- System design & scalability
+- Personal growth, discipline, and mindset
+
+---
+
+## 📬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abhishek-sharma10600/)
+
+---
+
+## ⚡ Fun Fact
+I believe **discipline beats talent** when talent doesn’t show up.
+
+---
+
+_Thanks for stopping by! Feel free to reach out if you want to collaborate, brainstorm, or just have a good tech talk!_

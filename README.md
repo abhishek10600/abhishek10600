@@ -27,7 +27,8 @@ I'm a passionate **Software Engineer** who loves building impactful solutions an
 ---
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abhishek-sharma10600/)
+- [X](https://x.com/im_Abhi10600)
+- [YouTube](https://www.youtube.com/@AbhishekSharma-hello)
 
 ---
 
